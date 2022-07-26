@@ -1,11 +1,7 @@
 
 
-#conWidth {
-  width: 80px;
+.header h1{
+  text-align: center;
   display: inline-block;
-}
-
-.algunos {
-  background-color: beige;
-  width: 40px;
+  margin-left: 200px ;
 }
