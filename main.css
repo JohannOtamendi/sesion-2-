@@ -1,7 +1,16 @@
-
-
-.header h1{
-  text-align: center;
-  display: inline-block;
-  margin-left: 200px ;
+h1 {
+  margin-left: 300px;
+  font-family: Georgia ;
 }
+
+.datos {
+  margin-top: 50px;
+  font-size: 30px;
+  width: 300px;
+}
+
+#mario {;
+  width: 50px;
+  height: 100px;
+  padding-right: 100px;
+
